@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.212,C:\Users\KOJAN\Documents\MyProjects\MTW\MTW.dproj=C:\Users\KOJAN\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.693,=C:\Users\KOJAN\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.005,=C:\Users\KOJAN\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.363,=C:\Users\KOJAN\Documents\MyProjects\MTW\NativeXml402\nativexml\NativeXmlObjectStorage.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.357,=C:\Users\KOJAN\Documents\MyProjects\MTW\NativeXml402\general\sdDebug.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.339,=C:\Users\KOJAN\Documents\MyProjects\MTW\NativeXml402\nativexml\NativeXml.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.510,=C:\Users\KOJAN\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.399,=C:\Users\KOJAN\Documents\MyProjects\MTW\NativeXml402\general\sdStreams.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.866,C:\Users\KOJAN\Documents\MyProjects\MTW\MainUnit.dfm=C:\Users\KOJAN\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.866,C:\Users\KOJAN\Documents\MyProjects\MTW\MainUnit.pas=C:\Users\KOJAN\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.631,=C:\Users\KOJAN\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.427,=C:\Users\KOJAN\Documents\MyProjects\MTW\NativeXml402\general\sdStringTable.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.379,=C:\Users\KOJAN\Documents\MyProjects\MTW\NativeXml402\general\sdSortedLists.pas</Transaction>
+  </Transactions>
+</BorlandProject>
